@@ -60,10 +60,6 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "minecraft"
-      fontAwesomeClassname: "fab fa-pickaxe"
-    },
-    {
       skillName: "html-5",
       fontAwesomeClassname: "fab fa-html5"
     },
